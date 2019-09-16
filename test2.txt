@@ -1,0 +1,11 @@
+Window "Colors" (200,200) Layout Grid(4,3,5,5)
+ RadioButton "Red";
+ RadioButton "Blue";
+ RadioButton "Green";
+ Button "4";
+ Button "5";
+ Button "6";
+ Label "Black";
+ Label "Yellow";
+ End;
+End.
